@@ -1,5 +1,0 @@
-1537207144
-/home/istvan/work/conanpackages/conan-opendht/test_package/build/a48695b04da44a46df4a1a941f7168022ad28d2c/bin/libgnutls.so: a5731a8f8eb8f69d0c4c85489d422e01
-/home/istvan/work/conanpackages/conan-opendht/test_package/build/a48695b04da44a46df4a1a941f7168022ad28d2c/bin/libgnutlsxx.so: 83071c30ed5382ef0a78797ae98cc4d9
-/home/istvan/work/conanpackages/conan-opendht/test_package/build/a48695b04da44a46df4a1a941f7168022ad28d2c/bin/libmsgpackc.so: 0d8831b96606835e486f10da365ccea3
-/home/istvan/work/conanpackages/conan-opendht/test_package/build/a48695b04da44a46df4a1a941f7168022ad28d2c/bin/libopendht.so: b3f724c51f567997d16019f1d66b42c5
